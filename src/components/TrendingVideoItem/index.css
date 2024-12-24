@@ -1,0 +1,11 @@
+.trending-video-item {
+  display: flex;
+  margin-bottom: 20px;
+}
+.trending-video-title {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.trending-video-info-container {
+  line-height: 1;
+}

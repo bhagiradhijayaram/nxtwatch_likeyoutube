@@ -1,0 +1,13 @@
+.saved-details-container {
+  display: flex;
+}
+.no-saved-videos-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.no-saved-videos-img {
+  width: 400px;
+}

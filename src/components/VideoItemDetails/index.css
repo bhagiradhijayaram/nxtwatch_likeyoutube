@@ -1,0 +1,35 @@
+.Video-details-container {
+  display: flex;
+}
+.video-title {
+  font-size: 25px;
+}
+.views-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.views-container,
+.likes-container {
+  display: flex;
+  gap: 20px;
+}
+.channel {
+  line-height: 0.5;
+}
+.channel-description-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.channel-logo {
+  width: 60px;
+  height: 60px;
+}
+.reactions-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: transparent;
+  border: none;
+}
